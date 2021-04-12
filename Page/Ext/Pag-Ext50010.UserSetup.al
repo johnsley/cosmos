@@ -1,4 +1,4 @@
-pageextension 50001 "User Setup" extends "User Setup"
+pageextension 50010 "User Setup" extends "User Setup"
 {
 
     actions
