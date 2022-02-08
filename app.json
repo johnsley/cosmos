@@ -1,14 +1,14 @@
 {
   "id": "a21cf986-b0f2-4b89-8c72-0290286062e5",
   "name": "Cosmos",
-  "publisher": "Kinetic Technology LTD",
-  "version": "1.0.0.1",
+  "publisher": "Jambo Point LTD",
+  "version": "1.0.0.0",
   "brief": "Attach user signature",
   "description": "Attach User signatures in BC",
   "privacyStatement": "",
-  "EULA": "http://kinetics.co.ke/",
-  "help": "http://kinetics.co.ke/",
-  "url": "http://kinetics.co.ke/",
+  "EULA": "http://jambopoint.com/",
+  "help": "http://jambopoint.com/",
+  "url": "http://jambopoint.com/",
   "logo": "signature.png",
   "dependencies": [
     {
