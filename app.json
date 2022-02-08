@@ -2,7 +2,7 @@
   "id": "a21cf986-b0f2-4b89-8c72-0290286062e5",
   "name": "Cosmos",
   "publisher": "Jambo Point LTD",
-  "version": "1.0.0.0",
+  "version": "1.0.0.1",
   "brief": "Attach user signature",
   "description": "Attach User signatures in BC",
   "privacyStatement": "",
